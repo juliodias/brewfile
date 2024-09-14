@@ -1,0 +1,23 @@
+tap "homebrew/bundle"
+tap "sdkman/tap"
+
+cask "arc"
+cask "caffeine"
+cask "emacs"
+cask "font-hack-nerd-font"
+cask "iterm2"
+cask "logsec"
+cask "maccy"
+cask "spotify"
+cask "vlc"
+
+# Utilities
+brew "fzf"
+brew "git"
+brew "jq"
+brew "leiningen"
+brew "powerlevel10k"
+brew "sdkman-cli"
+brew "vim"
+brew "wget"
+brew "zsh"
