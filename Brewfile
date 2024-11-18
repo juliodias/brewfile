@@ -3,6 +3,7 @@ tap "sdkman/tap"
 
 cask "arc"
 cask "caffeine"
+cask "docker"
 cask "emacs"
 cask "font-hack-nerd-font"
 cask "iterm2"
